@@ -9,7 +9,7 @@ Here's how to play:
 
 If this sounds a bit confusing, I recommend watching the attached video to see how it all works.
 
-[Video](https://drive.google.com/file/d/1EcLYs3aZ2AOq6u2q6eE6AYlxcEw0l4Pf/view?usp=sharing)
+[Game walkthrough video](https://drive.google.com/file/d/1EcLYs3aZ2AOq6u2q6eE6AYlxcEw0l4Pf/view?usp=sharing)
 
 Make sure you're watching at 720p/1080p!
 
