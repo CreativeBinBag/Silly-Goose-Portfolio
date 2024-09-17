@@ -173,7 +173,7 @@ window.MyMap = {
                         {who: "goose", type: "stand", direction: "left"},
 
                         {type: "textMessage", text: `Huh, the goose saw me and darted off. Maybe it's trying to avoid confrontation. Also, it seems like I left my laptop open. You'll often spot me tinkering away on my laptop, dreaming up whimsical projects and scribbling nonsense on <a href="https://medium.com/@nafisashamim1999" target="_blank"> Medium </a>.`},
-                        {type: "textMessage", text: `About this little project, it's only going to get sillier with time. If you want to remain updated, you can swing by my <a href="https://github.com/CreativeBinBag" target="_blank"> GitHub </a>. You can also take a peek at my <a href="https://drive.google.com/file/d/1eCcfCbF-Kuw0RJZE-5aeTebvOxMTzUSj/view?usp=sharing" target="_blank"> Resume </a> if you're wondering whether I'd be a good fit for your team. Okay, let's try talking to the goose again.`}
+                        {type: "textMessage", text: `About this little project, it's only going to get sillier with time. If you want to remain updated, you can swing by my <a href="https://github.com/CreativeBinBag" target="_blank"> GitHub </a>. You can also take a peek at my <a href="https://drive.google.com/file/d/10bV5PeIyiQXp4SGBkCpI5Cs-w0xR_MAr/view?usp=sharing" target="_blank"> Resume </a> if you're wondering whether I'd be a good fit for your team. Okay, let's try talking to the goose again.`}
 
                     ]
                  },
